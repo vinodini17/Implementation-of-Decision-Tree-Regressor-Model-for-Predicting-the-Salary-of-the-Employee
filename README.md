@@ -9,7 +9,7 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 ## Algorithm  
 ```
-1. Import the standard libraries.    
+1.Import the standard libraries.    
 2.Upload the dataset and check for any null values using .isnull() function.  
 3.Import LabelEncoder and encode the dataset.  
 4.Import DecisionTreeRegressor from sklearn and apply the model on the dataset  

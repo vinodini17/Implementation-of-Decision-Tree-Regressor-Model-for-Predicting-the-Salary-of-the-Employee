@@ -7,11 +7,13 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
-1. Import the standard libraries.
-2.Upload the dataset and check for any null values using .isnull() function.
-3.Import LabelEncoder and encode the dataset.
-4.Import DecisionTreeRegressor from sklearn and apply the model on the dataset
+## Algorithm  
+```
+1. Import the standard libraries.    
+2.Upload the dataset and check for any null values using .isnull() function.  
+3.Import LabelEncoder and encode the dataset.  
+4.Import DecisionTreeRegressor from sklearn and apply the model on the dataset  
+```
 
 ## Program:
 ```
